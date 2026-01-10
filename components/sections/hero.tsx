@@ -12,7 +12,7 @@ export function Hero() {
             {/* Background Image with Overlay */}
             <div
                 className="absolute inset-0 z-0 h-full w-full bg-cover bg-center bg-no-repeat opacity-20 dark:opacity-10"
-                style={{ backgroundImage: "url('/images/hero/hero-bg.png')" }}
+                style={{ backgroundImage: "url('images/hero/hero-bg.png')" }}
             />
             <div className="absolute inset-0 z-0 bg-gradient-to-b from-background via-background/80 to-background" />
 
@@ -70,7 +70,7 @@ export function Hero() {
                 >
                     <div className="relative aspect-[21/9] w-full overflow-hidden rounded-2xl border bg-background/50 shadow-2xl backdrop-blur-sm">
                         <img
-                            src="/images/hero/hero-bg.png"
+                            src="images/hero/hero-bg.png"
                             alt="Instalaciones Médicas"
                             className="h-full w-full object-cover opacity-90 transition-transform duration-700 hover:scale-105"
                         />
