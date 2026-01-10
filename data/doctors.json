@@ -1,0 +1,129 @@
+[
+    {
+        "id": "dr-ana-garcia",
+        "name": "Dra. Ana García",
+        "specialtyId": "cardiology",
+        "specialtyName": "Cardiología",
+        "rating": 4.9,
+        "reviews": 124,
+        "experience": 12,
+        "image": "/images/doctors/ana-garcia.jpg",
+        "bio": "Especialista en cardiología clínica e intervencionista con más de 12 años de experiencia. Egresada de la UNAM con postgrado en Harvard Medical School.",
+        "languages": [
+            "Español",
+            "Inglés"
+        ],
+        "availability": [
+            "Mon",
+            "Wed",
+            "Fri"
+        ],
+        "price": 1200
+    },
+    {
+        "id": "dr-carlos-ruiz",
+        "name": "Dr. Carlos Ruiz",
+        "specialtyId": "dermatology",
+        "specialtyName": "Dermatología",
+        "rating": 4.8,
+        "reviews": 98,
+        "experience": 8,
+        "image": "/images/doctors/carlos-ruiz.jpg",
+        "bio": "Experto en dermatología estética y clínica. Especializado en tratamientos láser y cuidado preventivo de la piel.",
+        "languages": [
+            "Español",
+            "Francés"
+        ],
+        "availability": [
+            "Tue",
+            "Thu",
+            "Sat"
+        ],
+        "price": 900
+    },
+    {
+        "id": "dra-sofia-martinez",
+        "name": "Dra. Sofía Martínez",
+        "specialtyId": "pediatrics",
+        "specialtyName": "Pediatría",
+        "rating": 5.0,
+        "reviews": 210,
+        "experience": 15,
+        "image": "/images/doctors/sofia-martinez.jpg",
+        "bio": "Pediatra certificada apasionada por el desarrollo infantil. Enfoque en nutrición y medicina preventiva para niños.",
+        "languages": [
+            "Español"
+        ],
+        "availability": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+        ],
+        "price": 800
+    },
+    {
+        "id": "dr-miguel-angel",
+        "name": "Dr. Miguel Ángel",
+        "specialtyId": "neurology",
+        "specialtyName": "Neurología",
+        "rating": 4.7,
+        "reviews": 85,
+        "experience": 20,
+        "image": "/images/doctors/miguel-angel.jpg",
+        "bio": "Neurólogo clínico con amplia experiencia en migrañas y trastornos del sueño. Investigador activo en neurociencias.",
+        "languages": [
+            "Español",
+            "Inglés",
+            "Alemán"
+        ],
+        "availability": [
+            "Mon",
+            "Wed",
+            "Fri"
+        ],
+        "price": 1500
+    },
+    {
+        "id": "dra-laura-torres",
+        "name": "Dra. Laura Torres",
+        "specialtyId": "psychology",
+        "specialtyName": "Psicología",
+        "rating": 4.9,
+        "reviews": 150,
+        "experience": 10,
+        "image": "/images/doctors/laura-torres.jpg",
+        "bio": "Psicóloga clínica especializada en terapia cognitivo-conductual. Ayuda a pacientes a superar ansiedad y depresión.",
+        "languages": [
+            "Español",
+            "Inglés"
+        ],
+        "availability": [
+            "Tue",
+            "Thu",
+            "Sat"
+        ],
+        "price": 700
+    },
+    {
+        "id": "dr-jorge-mendez",
+        "name": "Dr. Jorge Méndez",
+        "specialtyId": "orthopedics",
+        "specialtyName": "Ortopedia",
+        "rating": 4.8,
+        "reviews": 110,
+        "experience": 14,
+        "image": "/images/doctors/jorge-mendez.jpg",
+        "bio": "Cirujano ortopedista especializado en lesiones deportivas y cirugía artroscópica. Médico oficial de equipos deportivos.",
+        "languages": [
+            "Español"
+        ],
+        "availability": [
+            "Mon",
+            "Tue",
+            "Thu"
+        ],
+        "price": 1100
+    }
+]

@@ -1,0 +1,28 @@
+{
+  "name": "MedicalOk",
+  "tagline": "Salud de clase mundial al alcance de tu mano",
+  "description": "MedicalOk es una clínica moderna dedicada a ofrecer atención médica integral con tecnología de punta y especialistas certificados.",
+  "contact": {
+    "phone": "+1 (555) 123-4567",
+    "whatsapp": "+1 (555) 987-6543",
+    "email": "contacto@medicalok.com",
+    "address": "Av. Salud 123, Torre Médica II, Piso 4",
+    "city": "Montería",
+    "country": "Colombia",
+    "coords": {
+      "lat": 19.4326,
+      "lng": -99.1332
+    }
+  },
+  "socials": {
+    "facebook": "https://facebook.com/medicalok",
+    "instagram": "https://instagram.com/medicalok",
+    "twitter": "https://twitter.com/medicalok",
+    "linkedin": "https://linkedin.com/company/medicalok"
+  },
+  "hours": {
+    "weekdays": "8:00 AM - 8:00 PM",
+    "saturday": "9:00 AM - 2:00 PM",
+    "sunday": "Cerrado"
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "cardiology",
+    "name": "Cardiología",
+    "description": "Cuidado integral del corazón y sistema cardiovascular.",
+    "icon": "HeartPulse",
+    "image": "/images/specialties/cardiology.jpg"
+  },
+  {
+    "id": "dermatology",
+    "name": "Dermatología",
+    "description": "Diagnóstico y tratamiento de enfermedades de la piel.",
+    "icon": "Activity",
+    "image": "/images/specialties/dermatology.jpg"
+  },
+  {
+    "id": "pediatrics",
+    "name": "Pediatría",
+    "description": "Atención médica especializada para bebés, niños y adolescentes.",
+    "icon": "Baby",
+    "image": "/images/specialties/pediatrics.jpg"
+  },
+  {
+    "id": "neurology",
+    "name": "Neurología",
+    "description": "Tratamiento de trastornos del sistema nervioso.",
+    "icon": "Brain",
+    "image": "/images/specialties/neurology.jpg"
+  },
+  {
+    "id": "orthopedics",
+    "name": "Ortopedia",
+    "description": "Corrección de deformidades y lesiones del sistema musculoesquelético.",
+    "icon": "Bone",
+    "image": "/images/specialties/orthopedics.jpg"
+  },
+  {
+    "id": "psychology",
+    "name": "Psicología",
+    "description": "Apoyo profesional para la salud mental y emocional.",
+    "icon": "BrainCircuit",
+    "image": "/images/specialties/psychology.jpg"
+  }
+]

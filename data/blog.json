@@ -1,0 +1,32 @@
+[
+    {
+        "id": "beneficios-telemedicina",
+        "title": "Los beneficios de la telemedicina en 2024",
+        "excerpt": "Descubre cómo la tecnología está transformando la atención médica y facilitando el acceso a especialistas desde casa.",
+        "category": "Tecnología",
+        "date": "2024-03-15",
+        "author": "Dr. Carlos Ruiz",
+        "image": "/images/blog/telemedicina.jpg",
+        "readTime": "5 min"
+    },
+    {
+        "id": "cuidados-corazon",
+        "title": "5 Hábitos para un corazón saludable",
+        "excerpt": "Consejos prácticos de nuestros cardiólogos para mantener tu sistema cardiovascular en óptimas condiciones.",
+        "category": "Salud",
+        "date": "2024-03-10",
+        "author": "Dra. Ana García",
+        "image": "/images/blog/corazon.jpg",
+        "readTime": "4 min"
+    },
+    {
+        "id": "importancia-salud-mental",
+        "title": "Por qué no debes descuidar tu salud mental",
+        "excerpt": "La salud mental es tan importante como la física. Aprende a identificar señales de alerta y cuándo buscar ayuda.",
+        "category": "Bienestar",
+        "date": "2024-03-05",
+        "author": "Dra. Laura Torres",
+        "image": "/images/blog/mental.jpg",
+        "readTime": "6 min"
+    }
+]
