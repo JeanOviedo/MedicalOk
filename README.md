@@ -37,7 +37,7 @@ MedicalOk es una plantilla frontend moderna, rápida y totalmente responsive dis
 ### Pasos
 1.  **Clonar el repositorio**:
     ```bash
-    git clone https://github.com/tu-usuario/medicalok.git
+    git clone https://github.com/JeanOviedo/MedicalOk.git
     cd medicalok
     ```
 
@@ -71,7 +71,7 @@ Este proyecto ya está configurado para desplegarse automáticamente en GitHub P
 
 Consulta la guía detallada en `deployment_guide.md` si necesitas más ayuda.
 
-## �📂 Estructura del Proyecto
+## 📂 Estructura del Proyecto
 
 ```
 /medicalok
