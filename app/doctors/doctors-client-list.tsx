@@ -45,7 +45,7 @@ export function DoctorsClientList() {
                         <Card key={doctor.id} className="overflow-hidden hover:shadow-lg transition-shadow group">
                             <div className="aspect-[4/3] relative bg-muted overflow-hidden">
                                 <img
-                                    src={index % 2 === 0 ? "/images/doctors/doctor-female-1.png" : "/images/doctors/doctor-male-1.png"}
+                                    src={index % 2 === 0 ? "images/doctors/doctor-female-1.png" : "images/doctors/doctor-male-1.png"}
                                     alt={doctor.name}
                                     className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
                                 />

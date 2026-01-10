@@ -48,7 +48,7 @@ export default async function DoctorPage({ params }: DoctorPageProps) {
                 <div className="space-y-6">
                     <div className="aspect-square w-full relative overflow-hidden rounded-xl bg-muted flex items-center justify-center group">
                         <img
-                            src={Number(doctor.id) % 2 === 0 ? "/images/doctors/doctor-female-1.png" : "/images/doctors/doctor-male-1.png"}
+                            src={Number(doctor.id) % 2 === 0 ? "../images/doctors/doctor-female-1.png" : "../images/doctors/doctor-male-1.png"}
                             alt={doctor.name}
                             className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
                         />

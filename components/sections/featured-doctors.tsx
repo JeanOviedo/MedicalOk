@@ -24,7 +24,7 @@ export function FeaturedDoctors() {
                         <Card key={doctor.id} className="overflow-hidden border-0 shadow-lg transition-all hover:-translate-y-1 hover:shadow-xl group">
                             <div className="aspect-[4/5] relative bg-muted overflow-hidden">
                                 <img
-                                    src={index % 2 === 0 ? "/images/doctors/doctor-female-1.png" : "/images/doctors/doctor-male-1.png"}
+                                    src={index % 2 === 0 ? "images/doctors/doctor-female-1.png" : "images/doctors/doctor-male-1.png"}
                                     alt={doctor.name}
                                     className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
                                 />
