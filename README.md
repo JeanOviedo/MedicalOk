@@ -1,6 +1,8 @@
 # MedicalOk - Premium Medical Clinic Template
 
 MedicalOk es una plantilla frontend moderna, rápida y totalmente responsive diseñada para clínicas, hospitales y consultorios médicos. Construida con **Next.js 16**, **Tailwind CSS v4** y **Framer Motion**, esta plantilla ofrece una experiencia de usuario de primera clase.
+
+
 ![DienteOk Preview](https://jeanoviedo.com/img/medical.jpg)
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
